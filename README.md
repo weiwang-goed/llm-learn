@@ -1,2 +1,4 @@
 # llm-learn
-my learning of llm / gpt
+- Purpose: learning of llm / gpt by using it in apps.
+- Content: notebooks, docs(papaer or paper-with-code or links).
+
